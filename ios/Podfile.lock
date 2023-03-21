@@ -1,0 +1,38 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_blue_plus (0.0.1):
+    - Flutter
+    - flutter_blue_plus/Protos (= 0.0.1)
+  - flutter_blue_plus/Protos (0.0.1):
+    - Flutter
+    - Protobuf (~> 3.11)
+  - flutter_native_splash (0.0.1):
+    - Flutter
+  - Protobuf (3.22.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_blue_plus (from `.symlinks/plugins/flutter_blue_plus/ios`)
+  - flutter_native_splash (from `.symlinks/plugins/flutter_native_splash/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Protobuf
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_blue_plus:
+    :path: ".symlinks/plugins/flutter_blue_plus/ios"
+  flutter_native_splash:
+    :path: ".symlinks/plugins/flutter_native_splash/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_blue_plus: 6787777145d615de01828f3a9fa423c3c702f0b3
+  flutter_native_splash: 52501b97d1c0a5f898d687f1646226c1f93c56ef
+  Protobuf: d7f7c8329edf5eb8af65547a8ba3e9c1cee927d5
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,21 @@
+# © 2023 B1 Digital
+
+# User         : alisinancobani
+# Project Name : flutter_juul
+# Name         : Ali Sinan COBANI
+# Date         : 18.03.2023 20:05
+# Notes        :
+
+
+
+
+
+
+flutter_native_splash:
+
+  color: "#FFFFFF"
+
+  image: assets/images/Juul_Logo.png
+
+  android_12:
+    image: assets/images/Juul_Logo.png
